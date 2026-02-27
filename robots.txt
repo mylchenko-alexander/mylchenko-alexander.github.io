@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mylchenko-alexander.github.io/sitemap.xml
